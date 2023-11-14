@@ -24,3 +24,18 @@ divCash: The amount of cash dividend paid out to shareholders on the given day.
 splitFactor: The split factor, if any, applied to Google's stock on the given day. A split factor of 1 indicates no split. 
 
 Dataset : https://www.kaggle.com/datasets/shreenidhihipparagi/google-stock-prediction
+solution : https://github.com/charanreddy970/bharat-intern/blob/main/stock%20prediction.ipynb
+
+#task 2
+## problem statement :
+## titanic classification : Algorithm which tells wheather the person will be save fron sinking or not
+### about dataset
+Titanic is one of the most infamous shipwrecks in history. On April 15, 1912, during her maiden voyage, the Titanic sank after colliding with an iceberg, killing 1502 out of 2224 passengers and crew. This sensational tragedy shocked the international community and led to better safety regulations for ships.
+
+While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
+
+In this challenge, we have to a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
+
+PassengerId: Passenger Identity Survived: Whether passenger survived or not (0 = No, 1 = Yes) Pclass: Class of ticket, a proxy for socio-economic status (SES) (1 = 1st, 2 = 2nd, 3 = 3rd) Name: Name of passenger Sex: Sex of passenger Age: Age of passenger in years SibSp: Number of sibling and/or spouse travelling with passenger Parch: Number of parent and/or children travelling with passenger Ticket: Ticket number Fare: Price of ticket Cabin: Cabin number Embarked: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
+Dataset : https://www.kaggle.com/datasets/rahulsah06/titanic
+Solution :
